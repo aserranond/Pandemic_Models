@@ -2,7 +2,7 @@
 An educational standalone pandemic modelling app directed towards understanding the spread and control of SARS-CoV-2 (for Windows 10; will
 install MATLAB Runtime)
 
-This code allows the user to run numerical epidemic models in the SIR framework, as well as perturbations such as varying death rates (vital 
+This code allows the user to run numerical epidemic models in the SIR framework, along with perturbations such as varying death rates (vital 
 dynamics), and timed quarantines. All model parameters are adjustable, though the default values for the base reproduction number and case fatality rate were taken from studies of SAR-CoV2 in late March 2020.
 
 The default value for the quarantine end time in the second tab allows the user to see the risk of a second wave upon reopening. These model parameters are not meant to be realistic, but rather educational.
