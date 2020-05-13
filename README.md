@@ -9,5 +9,5 @@ The default value for the quarantine end time in the second tab allows the user 
 
 Models are based on those presented in the review article "The Mathematics of Infectious Diseases" by Herbert W. Hethcote: https://epubs.siam.org/doi/10.1137/S0036144500371907
 
-This code was developed with the aid of students in Spring 2020 CHEM262 course (Mathematical Methods in the Chemical Sciences) at the 
+This code was developed with the aid of students in the Spring 2020 CHEM262 course (Mathematical Methods in the Chemical Sciences) at the 
 University of Notre Dame. 
