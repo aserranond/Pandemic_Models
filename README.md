@@ -1,5 +1,5 @@
 # Pandemic_Models
-An educational standalone pandemic modelling app directed towards understanding the spread and control of SARS-CoV-2 (for Windows 10; will
+An educational standalone pandemic modelling app directed towards understanding the spread and control of SARS-CoV-2 (for Windows 10 or macOS 10; will
 install MATLAB Runtime)
 
 This code allows the user to run numerical epidemic models in the SIR framework, along with perturbations such as varying death rates (vital 
